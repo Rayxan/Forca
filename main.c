@@ -11,7 +11,8 @@
 #endif
 
 int found[4096], i;
-char word[] = "GERALT", uppercase[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+char word[] = "GERALT"; //Palavra secreta
+char uppercase[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 typedef enum { STARTING, RUNNING, WAITING, VICTORY, GAME_OVER } State; // estados do jogo
 
 #include "print.h"
