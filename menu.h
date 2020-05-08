@@ -1,4 +1,5 @@
 int menu(){
+    system("clear");
     int op;
     printf("\tMENU\n");
     printf("1 - Jogar\n");
