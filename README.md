@@ -1,4 +1,4 @@
-# Jogo da forca em linguagem C, com o intuito de colocar em prática conceitos básicos da linguagem
+# Jogo da forca em linguagem C
 Jogo da Forca em C
 
 ## Tela inicial do jogo
