@@ -1,11 +1,11 @@
 # Forca
 Jogo da Forca em C
 
--Tela inicial do jogo
+## Tela inicial do jogo
 
 ![ScreenShot](https://raw.github.com/Rayxan/Forca/master/img/forca1.png)
 
 
--Jogo em funcionamento
+## Jogo em funcionamento
 
 ![ScreenShot](https://raw.github.com/Rayxan/Forca/master/img/forca2.png)
